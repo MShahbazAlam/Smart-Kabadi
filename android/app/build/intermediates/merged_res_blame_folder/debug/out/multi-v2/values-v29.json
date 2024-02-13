@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.smartkabadi.app-mergeDebugResources-34:/values-v29/values-v29.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Shahbaz\\.gradle\\caches\\transforms-3\\bcec944e1c23de2d04c9f1c0388d4430\\transformed\\jetified-core-splashscreen-1.0.0\\res\\values-v29\\values-v29.xml",
+                    "from": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,374",
+                        "endLines": "6,8",
+                        "endColumns": "12,12",
+                        "endOffsets": "369,464"
+                    }
+                }
+            ]
+        }
+    ]
+}
